@@ -23,7 +23,7 @@ This project marks **Phase 2** of our ongoing development of a dynamic threat mo
 
 🔹 LLM Engine
 - Converts surface + goal prompts into:
-  - Attack tree structure (AND/OR logic)
+  - Attack tree structure 
   - Summary of attack paths, vectors, and methods
 - Reduces manual tree creation and ensures consistency.
 
