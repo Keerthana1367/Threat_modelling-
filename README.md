@@ -35,7 +35,7 @@ This project marks **Phase 2** of our ongoing development of a dynamic threat mo
 
 🔹 CSV Threat Library
 - Auto-updated for every new threat model
-- Columns: `Attack Surface`, `Goal`, `Vectors`, `Techniques`, `Methods`, `Paths`
+- Columns: `Attack Surface goals`, `Vectors`, `Techniques`, `Methods`, `Paths`
 - Supports external analysis and portability
 
 ---
